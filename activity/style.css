@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+#puno1{
+   text-shadow: 100%;
+}
+#hex{
+    color: white;
+}
+#startbtn{
+    border-radius: 8px;
+}
+#startbtn:hover{
+  background-color: rgb(60, 253, 11);
+}
+#stopbtn{
+    border-radius: 8px;
+}
+#stopbtn:hover{
+    background-color: red;;
+
+}
